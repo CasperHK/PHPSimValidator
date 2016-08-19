@@ -33,4 +33,4 @@ Supported Format
 
 Documentation
 -------------
-For the detailed documentation for check out [this file](https://github.com/CasperHK/PHPSimValidator/blob/master/doc.md).
+For the detailed documentation, please check out [this file](https://github.com/CasperHK/PHPSimValidator/blob/master/doc.md).
