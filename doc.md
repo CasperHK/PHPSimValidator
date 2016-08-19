@@ -10,6 +10,14 @@ Documentation of Methods
    |-------------|--------------------------------------------------|
    | Description | This is used to check the username format.       |
 
+ * Result
+   | Return Value | Type    | Meaning                                   |
+   |--------------|---------|-------------------------------------------|
+   | `true`       | Boolean | The checking passed.                      |
+   | `1`          | Integer |                                           |
+   | `2`          | Integer |                                           |
+   | `3`          | Integer |                                           |
+
  * Custom Setting
  
    | Variable     | Meaning                                          |
