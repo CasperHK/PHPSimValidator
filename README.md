@@ -7,3 +7,7 @@ A easy to use PHP simple validator for checking user input. It does not use REGE
 
 Usage
 -----
+
+Documentation
+-------------
+For the detailed documentation for check out [this file](https://github.com/CasperHK/PHPSimValidator/blob/master/doc.md).
