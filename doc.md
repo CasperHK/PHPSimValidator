@@ -14,10 +14,10 @@ Documentation of Methods
 
    | Return Value | Type    | Meaning                                   |
    |--------------|---------|-------------------------------------------|
-   | `true`       | Boolean | The checking passed.                      |
-   | `1`          | Integer |                                           |
-   | `2`          | Integer |                                           |
-   | `3`          | Integer |                                           |
+   | `true`       | Boolean | The format is correct.                    |
+   | `1`          | Integer | The length is less than the minimum.      |
+   | `2`          | Integer | The length is larger than the maximum.    |
+   | `3`          | Integer | The string is not alphanumeric.           |
 
  * Custom Setting
  
