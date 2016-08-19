@@ -1,1 +1,21 @@
+Documentation of Methods
 
+----------------------------------------------------------------------
+## Username
+
+ * Basics
+ 
+   | Usage       | `InputValidator::isUsernameCorrect("USERNAME");` |
+   |-------------|--------------------------------------------------|
+   | Description | This is used to check the username format.       |
+
+ * Custom Setting
+ 
+   | Variable     | Meaning                                          |
+   |--------------|--------------------------------------------------|
+   | `$minLength` | Define the minimum length for check.             |
+   | `$maxLength` | Define the maximum length for check.             |
+
+----------------------------------------------------------------------
+
+## Password
