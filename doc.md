@@ -36,6 +36,16 @@ Documentation of Methods
    |-------------|--------------------------------------------------|
    | Description | This is used to check the password format.       |
 
+ * Result
+
+   | Return Value | Type    | Meaning                                   |
+   |--------------|---------|-------------------------------------------|
+   | `true`       | Boolean | The format is correct.                    |
+   | `1`          | Integer | The length is less than the minimum.      |
+   | `2`          | Integer | The length is larger than the maximum.    |
+   | `3`          | Integer | The string contain whitespace.            |
+   
+
  * Custom Setting
  
    | Variable     | Meaning                                          |
