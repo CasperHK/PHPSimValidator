@@ -18,6 +18,18 @@ Usage
        // Do something you want
    }
    ```
+   
+Supported Format
+----------------
+ * [x] Username
+ * [x] Password
+ * [ ] Email
+ * [ ] First Name
+ * [ ] Last Name
+ * [ ] File Name
+ * [ ] File Extension
+ * [ ] IPv4 Address
+ * [ ] IPv6 Address
 
 Documentation
 -------------
