@@ -7,6 +7,8 @@ An easy-to-use simple validator for checking user input in PHP. It does not use 
 
 Usage
 -----
+ * Download the PHP script file using this url: https://raw.githubusercontent.com/CasperHK/PHPSimValidator/master/php/InputValidator.php
+
  * Include the validator class.
 
         required_once('./InputValidator.php');
