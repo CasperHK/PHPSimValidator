@@ -1,4 +1,5 @@
 Documentation of Methods
+========================
 
 ----------------------------------------------------------------------
 ## Username
@@ -16,6 +17,19 @@ Documentation of Methods
    | `$minLength` | Define the minimum length for check.             |
    | `$maxLength` | Define the maximum length for check.             |
 
-----------------------------------------------------------------------
 
+----------------------------------------------------------------------
 ## Password
+
+ * Basics
+ 
+   | Usage       | `InputValidator::isPasswordCorrect("PASSWORD");` |
+   |-------------|--------------------------------------------------|
+   | Description | This is used to check the password format.       |
+
+ * Custom Setting
+ 
+   | Variable     | Meaning                                          |
+   |--------------|--------------------------------------------------|
+   | `$minLength` | Define the minimum length for check.             |
+   | `$maxLength` | Define the maximum length for check.             |
