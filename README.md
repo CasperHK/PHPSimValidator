@@ -7,6 +7,17 @@ A easy to use PHP simple validator for checking user input. It does not use REGE
 
 Usage
 -----
+ * Include the validator class.
+
+        required_once('./InputValidator.php');
+
+ * Use the validation method inside.
+
+   ``` php
+   if (InputValidator::isPasswordCorrect("PASSWORD")) {
+       // Do something you want
+   }
+   ```
 
 Documentation
 -------------
