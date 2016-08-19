@@ -1,5 +1,5 @@
-PHPSimValidator
-===============
+PHP Simple Validator
+====================
 
 Introduction
 ------------
