@@ -3,7 +3,7 @@ PHP Simple Validator
 
 Introduction
 ------------
-An easy-to-use simple validator for checking user input in PHP. It does not use REGEX to check string input but use string operations with PHP standard library to check string input. Therefore, it can provide very fast speed performance of input validation checking. It is written in well structured and documented format so you can easily make change it to fit you need.
+An easy-to-use simple validator build on top of `Respect\Validation` for checking user input in PHP. It is written in well structured and documented format so you can easily make change on it to fit you need. This validator implemented a more high-level interface so that you can know less to validate user input.
 
 Usage
 -----
